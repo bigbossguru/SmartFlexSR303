@@ -1,7 +1,7 @@
 For launch smartFlex script exist two ways:
 
 - 1st run batch file double click
-- 2nd run exe file
+- 2nd download and run exe file
 
 command build exe file: $ pyinstaller --onefile --console scriptSmart.py
 
