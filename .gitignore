@@ -1,0 +1,10 @@
+
+conf_tmp.cfg
+/__pycache__
+/dist
+/build
+*.spec
+scriptSmart.exe
+test.py
+*.ovpn
+*.conf
