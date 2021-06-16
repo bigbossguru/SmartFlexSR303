@@ -1,0 +1,3 @@
+[submodule "Changelog-generator"]
+	path = Changelog-generator
+	url = git@github.com:call1010/Changelog-generator.git
